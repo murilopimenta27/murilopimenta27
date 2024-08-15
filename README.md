@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pelo gmail pimenta.murilo@escola.pr.gov.br
 - 😄 Pronouns: pimenta
-- ⚡ Fun fact: estrovertido
+- ⚡ Fun fact: estrovertido e animado
 
 <!---
 murilopimenta27/murilopimenta27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
